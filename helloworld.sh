@@ -1,2 +1,2 @@
 echo "hello team"
-echo "happy learning"
+echo "thanks for joining the session"
